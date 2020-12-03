@@ -1,0 +1,9 @@
+@font-face {
+    font-family: 'Proxima Nova';
+    src: url('ProximaNova-RegularCondensedIta.woff2') format('woff2'),
+        url('ProximaNova-RegularCondensedIta.woff') format('woff');
+    font-weight: normal;
+    font-style: italic;
+    font-display: swap;
+}
+
